@@ -6,7 +6,7 @@ The code will be released soon.
 
 # Video demo for long-term visual localization using the proposed w-MSAC for multi-camera pose estimation
 
-![](https://github.com/roylin1229/IIB_descriptor/blob/main/img/demo.png)
+![](https://github.com/roylin1229/w-MSAC/blob/main/img/demo.png)
 
 Legends:  
 IMU: Inertial Measurement Unit  
