@@ -1,8 +1,13 @@
 # w-MSAC
-Ultra-fast and Accurate Weighted MSAC for Joint Pose Estimation of Multiple Camera System
 
 The code will be released soon.
 
-# Video demo for long-term visual localization using the proposed w-MSAC for multi-camera pose estimation
+# The visual localization system with the w-MSAC for multiple camera pose estimation
+(4 Camera + IMU + Visual Localization Database)  
 
-The demo will be released soon.
+The key challenge lies in the accurate and efficient pose estimation of the multiple cameras under noisy feature correspondences.   
+
+Data for visual localization database creation (08/04)  
+Data for visual localization (10/26)  
+
+The visual localization system with the w-MSAC achieves centimeter-level positioning accuracy.  
