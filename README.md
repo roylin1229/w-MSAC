@@ -14,5 +14,5 @@ The visual localization system with the w-MSAC achieves centimeter-level positio
 
 ![](https://github.com/roylin1229/w-MSAC/blob/main/img_w-MSAC.png)  
 
-Google Drive (1080P): https://drive.google.com/file/d/1RM8T4ijDpWBrQw2DCpYvGj34fKKpj5wb/view?usp=sharing  
-Google Drive (720P): https://drive.google.com/file/d/1tW7swEINVDSGRVcWLIn7eeGKs8DXwnWI/view?usp=sharing  
+Google Drive (1080P): https://drive.google.com/file/d/1bh2NHiM4h-hVwd1k6PJKTPaCX-ic8Ng8/view?usp=sharing  
+Google Drive (720P): https://drive.google.com/file/d/1kaCYYljVxCPczhz1TiiYiy0hvwYdWjLq/view?usp=sharing  
