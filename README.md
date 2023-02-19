@@ -4,6 +4,8 @@ X. Lin, Y. Zhou, X. Zhang, Y. Liu and C. Zhu, "Efficient And Effective Multi-Cam
 
 The code will be released soon.
 
+# Video demo for visual localization using the w-MSAC algorithm.
+
 [![](https://github.com/roylin1229/w-MSAC/blob/main/img_w-MSAC.png)](https://drive.google.com/file/d/1bh2NHiM4h-hVwd1k6PJKTPaCX-ic8Ng8/view?usp=sharing)   
 
 Google Drive (1080P): https://drive.google.com/file/d/1bh2NHiM4h-hVwd1k6PJKTPaCX-ic8Ng8/view?usp=sharing  
